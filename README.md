@@ -11,7 +11,7 @@ This library is a Swift port/fork of the popular Objective-C library [TTTAttribu
 Come build awesome things with us here at [Instacart!](https://careers.instacart.com/)
 
 ### Requirements ###
-- iOS 8.0+
+- iOS 11.0+
 - Swift 4.2
 
 ### Installation ###
